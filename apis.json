@@ -1,0 +1,79 @@
+{
+    "name": "Affilae",
+    "description": "Create, track & manage easily your own affiliate network. Affilae is a SaaS affiliate marketing software improved by hundreds advertisers around the world.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1999-affilae.jpg",
+    "tags": [
+        "affiliates",
+        "api provider",
+        "conversions",
+        "have api",
+        "no api definition"
+    ],
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/affilae\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Affilae",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1999-affilae.jpg",
+            "humanURL": "https:\/\/affilae.com\/en",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/affilae-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/affilae-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.affilae.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/affilae.com\/en\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/affilae.com\/en\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/affilae"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/affilae"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/affilae.com\/en\/content\/api"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/affilae.com\/en\/api-v2-2\/"
+        },
+        {
+            "type": "Email",
+            "url": "contact@affilae.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/affilae"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/affilae.com\/en"
+        }
+    ]
+}
